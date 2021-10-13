@@ -2,7 +2,7 @@
 * Creating dataset of p-values and coefficients for independent variables
 * 	of lagged and non-lagged, fixed effects and random effects 
 * 	academic performance models
-* Sample Code 1.do
+* P-Value.do
 
 * I created this program as part of my internship at the American
 * 	Enterprise Institute. My PI, Dr. Eberstadt, was interested in 
