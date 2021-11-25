@@ -2,7 +2,7 @@ This folder contains two Stata code samples.
 
 1) Song_Gayeong_SW_1.do: 
 
-This program replicates the empirical analysis of my paper studying the relationship between Taliban violence and infant immunization at week 0 and week 6 after birthin Afghanistan using DHS (Demographic and Health Surveys) and GTD (Global Terrorism Database).
+This program replicates the empirical analysis of my paper studying the relationship between Taliban violence and infant immunization at week 0 and week 6 after birth in Afghanistan using DHS (Demographic and Health Surveys) and GTD (Global Terrorism Database).
 
 This code sample demonstrates:
   * My ability to produce replication code
